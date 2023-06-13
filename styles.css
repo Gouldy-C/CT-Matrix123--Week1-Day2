@@ -1,0 +1,21 @@
+:root {
+    --card-red: rgba(234, 84, 84, 1);
+    --card-light-blue: rgba(68, 211, 210, 1);
+    --card-yellow: rgba(252, 174, 74, 1);
+    --card-blue: rgba(84, 158, 242, 1);
+    --card-grey: rgba(77, 79, 98, 1);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Poppins', sans-serif;
+}
+
+main {
+    padding: 40px 32px 0;
+}
